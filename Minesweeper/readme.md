@@ -5,12 +5,12 @@ Nagy Botond-Vilmos
 This is a simple minesweeper game written in Java.
 It has GUI based on swing and awt.
 When you start the game, you are presented with a menu:
-`New Game`:
-- you can choose the size of the board and the number of mines.
-`Leaderboard`:
-- you can see the previous games and their times.
-`Exit`:
-- you can exit the game.
+- `New Game`:
+you can choose the size of the board and the number of mines.
+- `Leaderboard`:
+you can see the previous games and their times.
+- `Exit`:
+you can exit the game.
 
 # Running the game
 To run the game, you need to have a JDK installed on your computer.
