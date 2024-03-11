@@ -31,3 +31,5 @@ java -cp out MinesweeperUI
 
 # Final notes
 I hope you will enjoy the game and have fun playing it :).
+
+[Back](../README.md)
