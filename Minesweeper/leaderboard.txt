@@ -1,0 +1,7 @@
+boti,10,2
+vili,100,1
+ja,2094,0
+vili,2459,0
+jsnjsdjv,6514,0
+BOSS,7505,0
+Dino,7997,0
